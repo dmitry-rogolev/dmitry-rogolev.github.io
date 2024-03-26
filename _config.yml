@@ -1,5 +1,16 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Роголев Дмитрий Александрович
+tagline: Fullstack web-разработчик.
+description: Fullstack web-разработчик.
 theme: jekyll-theme-hacker
+github:
+    repository_url: https://github.com/dmitry-rogolev
+
+lang: ru-RU
+timezone: Asia/Novosibirsk
+
+defaults:
+    - scope:
+          path: ''
+          type: 'pages'
+      values:
+          layout: 'default'

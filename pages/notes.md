@@ -1,7 +1,13 @@
 ---
 title: Конспект
-permalink: /notes
+permalink: /notes/
 ---
+
+[Назад](..) # [Главная](/) / {{ page.title }}
+
+---
+
+<p style="margin: 0"><br></p>
 
 # {{ page.title }}
 

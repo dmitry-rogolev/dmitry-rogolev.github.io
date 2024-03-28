@@ -1,7 +1,13 @@
 ---
 title: Мои работы
-permalink: /projects
+permalink: /projects/
 ---
+
+[Назад](..) # [Главная](/) / {{ page.title }}
+
+---
+
+<p style="margin: 0"><br></p>
 
 # {{ page.title }}
 

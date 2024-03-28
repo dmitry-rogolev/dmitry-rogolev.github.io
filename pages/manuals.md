@@ -1,7 +1,13 @@
 ---
 title: Документация
-permalink: /manuals
+permalink: /manuals/
 ---
+
+[Назад](..) # [Главная](/) / {{ page.title }}
+
+---
+
+<p style="margin: 0"><br></p>
 
 # {{ page.title }}
 

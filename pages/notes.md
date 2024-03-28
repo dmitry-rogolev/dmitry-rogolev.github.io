@@ -1,5 +1,5 @@
 ---
-title: Конспект
+title: Конспекты
 permalink: /notes/
 ---
 
@@ -11,4 +11,4 @@ permalink: /notes/
 
 # {{ page.title }}
 
--   [Vite](./vite)
+## [Vite](./vite)

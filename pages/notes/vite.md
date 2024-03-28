@@ -1,7 +1,13 @@
 ---
 title: Vite
-permalink: /notes/vite
+permalink: /notes/vite/
 ---
+
+[Назад](..) # [Главная](/) / [Конспекты](/notes) / {{ page.title }}
+
+---
+
+<p style="margin: 0"><br></p>
 
 # {{ page.title }}
 
@@ -15,7 +21,9 @@ permalink: /notes/vite
 
     npm i unplugin-fonts -D
 
-### vite.config.js
+### Подключение
+
+_vite.config.js_
 
 ```js
 import Fonts from 'unplugin-fonts/vite';
